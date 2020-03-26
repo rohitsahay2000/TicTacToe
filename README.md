@@ -1,20 +1,28 @@
 # TicTacToe
 
-1. A tic tac toe game with 3*3 board.
+1. A tic tac toe game with 3*3 board. A board representation below: 
 
  | | 
+ 
 -+-+-
- | |      <-- A board representation.
+
+ | | 
+ 
 -+-+-
+
  | | 
  
  
 2. A player inputs the position where he want to place. For example, if player inputs 4 , the board will look like below :
 
  | | 
+ 
 -+-+-
-X| | 
+
+X| |
+
 -+-+-
+
  | | 
  
  
